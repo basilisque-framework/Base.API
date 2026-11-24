@@ -20,12 +20,12 @@
 
   <!-- define NuGet package versions -->
   <ItemGroup>
-    <PackageVersion Include="Basilisque.CommonFrameworkBuild" Version="2.0.0-Preview00008" />
-    <PackageVersion Include="Basilisque.DependencyInjection" Version="1.1.0-Preview00016" />
+    <PackageVersion Include="Basilisque.CommonFrameworkBuild" Version="2.0.0-RC00015" />
+    <PackageVersion Include="Basilisque.DependencyInjection" Version="1.1.0-RC00026" />
 
     <PackageVersion Include="NSubstitute" Version="6.0.0" />
-    <PackageVersion Include="TUnit" Version="1.60.0" />
-    <PackageVersion Include="GitVersion.MsBuild" Version="6.7.0" />
+    <PackageVersion Include="TUnit" Version="1.87.12" />
+    <PackageVersion Include="GitVersion.MsBuild" Version="7.0.1" />
   </ItemGroup>
 
   <!-- Common Packages -->

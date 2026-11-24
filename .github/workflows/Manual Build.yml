@@ -40,5 +40,8 @@ jobs:
       projectOrSolution: 'src/Basilisque.Base.API.slnx'
       # sonarProjectKey: 'basilisque-framework_Base.API'
       # sonarOrganization: 'basilisque-framework'
+      dotNetVersion: |
+        10.0.x
+        11.0.x
       runDotnetPack: true
     secrets: inherit
